@@ -1,0 +1,32 @@
+.title,
+.sub-title,
+#link,
+.lasagna-heading,
+.center-align {
+    font-family: Tahoma;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+.title{
+    color: orange;
+}
+.center-align{
+    text-align: center;
+}
+
+.center,
+.lasagna-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.sub-title {
+    color: lightblue;
+}
+
+
+/* Lasagna Part */
+
+
